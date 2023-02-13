@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'SF_Pro_Display_Regular';
+    src: url('/public/f/SFProDisplay-Regular.woff2') format('woff2'),
+    url('/public/f/SFProDisplay-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SF_Pro_Display_Medium';
+    src: url('/public/f/SFProDisplay-Medium.woff2') format('woff2'),
+    url('/public/f/SFProDisplay-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SF_Pro_Display_Bold';
+    src: url('/public/f/SFProDisplay-Bold.woff2') format('woff2'),
+    url('/public/f/SFProDisplay-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MATROSKA';
+    src: url('/public/f/MATROSKA.woff2') format('woff2'),
+    url('/public/f/MATROSKA.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/public/f/Montserrat-Regular.woff2') format('woff2'),
+    url('/public/f/Montserrat-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Druk_Cyr';
+    src: url('/public/f/DrukCyr-Bold.woff2') format('woff2'),
+    url('/public/f/DrukCyr-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Playfair_Display';
+    src: url('/public/f/PlayfairDisplay-Regular.woff2') format('woff2'),
+    url('/public/f/PlayfairDisplay-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

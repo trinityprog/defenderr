@@ -1,0 +1,35 @@
+<svg width="231" height="96" viewBox="0 0 231 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.910736 68L0.908691 68L0.908693 27L0.910738 27L208.55 44.6043C210.981 44.8104 210.996 48.3614 208.567 48.5885L0.910736 68Z" fill="#191818"/>
+<path d="M0.910736 68L0.908691 68L0.908693 27L0.910738 27L208.55 44.6043C210.981 44.8104 210.996 48.3614 208.567 48.5885L0.910736 68Z" fill="url(#paint0_linear_2760_35919)"/>
+<path d="M16.9962 34.1953C14.1818 36.0852 11.1219 36.0838 8.30967 34.1953C11.1219 32.3069 14.1818 32.3054 16.9962 34.1953Z" fill="black" stroke="black" stroke-linejoin="round"/>
+<path d="M34.9962 46.1953C32.1818 48.0852 29.1219 48.0838 26.3097 46.1953C29.1219 44.3069 32.1818 44.3054 34.9962 46.1953Z" fill="black" stroke="black" stroke-linejoin="round"/>
+<path d="M16.9962 58.1953C14.1818 60.0852 11.1219 60.0838 8.30967 58.1953C11.1219 56.3069 14.1818 56.3054 16.9962 58.1953Z" fill="black" stroke="black" stroke-linejoin="round"/>
+<path d="M52.9962 55.1953C50.1818 57.0852 47.1219 57.0838 44.3097 55.1953C47.1219 53.3069 50.1818 53.3054 52.9962 55.1953Z" fill="black" stroke="black" stroke-linejoin="round"/>
+<path d="M71.9962 45.1953C69.1818 47.0852 66.1219 47.0838 63.3097 45.1953C66.1219 43.3069 69.1818 43.3054 71.9962 45.1953Z" fill="black" stroke="black" stroke-linejoin="round"/>
+<path d="M93.9962 41.1953C91.1818 43.0852 88.1219 43.0838 85.3097 41.1953C88.1219 39.3069 91.1818 39.3054 93.9962 41.1953Z" fill="black" stroke="black" stroke-linejoin="round"/>
+<path d="M84.9962 54.1953C82.1818 56.0852 79.1219 56.0838 76.3097 54.1953C79.1219 52.3069 82.1818 52.3054 84.9962 54.1953Z" fill="black" stroke="black" stroke-linejoin="round"/>
+<path d="M54.9962 39.1953C52.1818 41.0852 49.1219 41.0838 46.3097 39.1953C49.1219 37.3069 52.1818 37.3054 54.9962 39.1953Z" fill="black" stroke="black" stroke-linejoin="round"/>
+<path d="M111.996 49.1953C109.182 51.0852 106.122 51.0838 103.31 49.1953C106.122 47.3069 109.182 47.3054 111.996 49.1953Z" fill="black" stroke="black" stroke-linejoin="round"/>
+<path d="M128.996 43.1953C126.182 45.0852 123.122 45.0838 120.31 43.1953C123.122 41.3069 126.182 41.3054 128.996 43.1953Z" fill="black" stroke="black" stroke-linejoin="round"/>
+<path d="M148.996 49.1953C146.182 51.0852 143.122 51.0838 140.31 49.1953C143.122 47.3069 146.182 47.3054 148.996 49.1953Z" fill="black" stroke="black" stroke-linejoin="round"/>
+<path d="M168.996 45.1953C166.182 47.0852 163.122 47.0838 160.31 45.1953C163.122 43.3069 166.182 43.3054 168.996 45.1953Z" fill="black" stroke="black" stroke-linejoin="round"/>
+<ellipse cx="41.927" cy="64.4323" rx="2.862" ry="4.65076" transform="rotate(82.666 41.927 64.4323)" fill="white"/>
+<ellipse cx="68.2272" cy="32.6657" rx="3.39679" ry="5.51979" transform="rotate(92.8432 68.2272 32.6657)" fill="white"/>
+<ellipse cx="24.2272" cy="28.6657" rx="3.39679" ry="5.51979" transform="rotate(92.8432 24.2272 28.6657)" fill="white"/>
+<ellipse cx="98.3543" cy="58.8535" rx="2.958" ry="4.49475" transform="rotate(86.8929 98.3543 58.8535)" fill="white"/>
+<ellipse cx="137.409" cy="38" rx="3" ry="5.5" transform="rotate(90 137.409 38)" fill="white"/>
+<ellipse cx="160.759" cy="54.2852" rx="3.09868" ry="5.03536" transform="rotate(87.8522 160.759 54.2852)" fill="white"/>
+<line x1="1.40869" y1="2.18557e-08" x2="1.40869" y2="96" stroke="url(#paint1_linear_2760_35919)"/>
+<defs>
+<linearGradient id="paint0_linear_2760_35919" x1="0.908692" y1="47.5" x2="230.909" y2="47.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.51"/>
+<stop offset="1" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_2760_35919" x1="-0.0910686" y1="96" x2="-0.0910645" y2="2.95385" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0"/>
+<stop offset="0.109375" stop-color="#C6C6C6" stop-opacity="0.900763"/>
+<stop offset="0.880208" stop-color="#C6C6C6"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

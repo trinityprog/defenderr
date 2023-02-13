@@ -1,0 +1,35 @@
+<svg width="96" height="230" viewBox="0 0 96 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M68.0005 229.998V230H27.0005V229.998L44.6048 22.359C44.8109 19.9282 48.3619 19.9129 48.589 22.3418L68.0005 229.998Z" fill="#191818"/>
+<path d="M68.0005 229.998V230H27.0005V229.998L44.6048 22.359C44.8109 19.9282 48.3619 19.9129 48.589 22.3418L68.0005 229.998Z" fill="url(#paint0_linear_3273_39554)"/>
+<path d="M34.1948 213.913C36.0847 216.727 36.0833 219.787 34.1948 222.599C32.3064 219.787 32.3049 216.727 34.1948 213.913Z" fill="black" stroke="black" stroke-linejoin="round"/>
+<path d="M46.1948 195.913C48.0847 198.727 48.0833 201.787 46.1948 204.599C44.3064 201.787 44.3049 198.727 46.1948 195.913Z" fill="black" stroke="black" stroke-linejoin="round"/>
+<path d="M58.1948 213.913C60.0847 216.727 60.0833 219.787 58.1948 222.599C56.3064 219.787 56.3049 216.727 58.1948 213.913Z" fill="black" stroke="black" stroke-linejoin="round"/>
+<path d="M55.1948 177.913C57.0847 180.727 57.0833 183.787 55.1948 186.599C53.3064 183.787 53.3049 180.727 55.1948 177.913Z" fill="black" stroke="black" stroke-linejoin="round"/>
+<path d="M45.1948 158.913C47.0847 161.727 47.0833 164.787 45.1948 167.599C43.3064 164.787 43.3049 161.727 45.1948 158.913Z" fill="black" stroke="black" stroke-linejoin="round"/>
+<path d="M41.1948 136.913C43.0847 139.727 43.0833 142.787 41.1948 145.599C39.3064 142.787 39.3049 139.727 41.1948 136.913Z" fill="black" stroke="black" stroke-linejoin="round"/>
+<path d="M54.1948 145.913C56.0847 148.727 56.0833 151.787 54.1948 154.599C52.3064 151.787 52.3049 148.727 54.1948 145.913Z" fill="black" stroke="black" stroke-linejoin="round"/>
+<path d="M39.1948 175.913C41.0847 178.727 41.0833 181.787 39.1948 184.599C37.3064 181.787 37.3049 178.727 39.1948 175.913Z" fill="black" stroke="black" stroke-linejoin="round"/>
+<path d="M49.1948 118.913C51.0847 121.727 51.0833 124.787 49.1948 127.599C47.3064 124.787 47.3049 121.727 49.1948 118.913Z" fill="black" stroke="black" stroke-linejoin="round"/>
+<path d="M43.1948 101.913C45.0847 104.727 45.0833 107.787 43.1948 110.599C41.3064 107.787 41.3049 104.727 43.1948 101.913Z" fill="black" stroke="black" stroke-linejoin="round"/>
+<path d="M49.1948 81.9125C51.0847 84.7269 51.0833 87.7868 49.1948 90.599C47.3064 87.7868 47.3049 84.7269 49.1948 81.9125Z" fill="black" stroke="black" stroke-linejoin="round"/>
+<path d="M45.1948 61.9125C47.0847 64.7269 47.0833 67.7868 45.1948 70.599C43.3064 67.7868 43.3049 64.7269 45.1948 61.9125Z" fill="black" stroke="black" stroke-linejoin="round"/>
+<ellipse cx="64.4323" cy="188.982" rx="2.862" ry="4.65076" transform="rotate(-7.33402 64.4323 188.982)" fill="white"/>
+<ellipse cx="32.6662" cy="162.681" rx="3.39679" ry="5.51979" transform="rotate(2.84324 32.6662 162.681)" fill="white"/>
+<ellipse cx="28.6667" cy="206.681" rx="3.39679" ry="5.51979" transform="rotate(2.84324 28.6667 206.681)" fill="white"/>
+<ellipse cx="58.8506" cy="132.554" rx="2.958" ry="4.49475" transform="rotate(-3.10711 58.8506 132.554)" fill="white"/>
+<ellipse cx="38" cy="93.5" rx="3" ry="5.5" fill="white"/>
+<ellipse cx="54.2852" cy="70.1501" rx="3.09868" ry="5.03536" transform="rotate(-2.14781 54.2852 70.1501)" fill="white"/>
+<line y1="229.5" x2="96" y2="229.5" stroke="url(#paint1_linear_3273_39554)"/>
+<defs>
+<linearGradient id="paint0_linear_3273_39554" x1="47.5005" y1="230" x2="47.5005" y2="0" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.51"/>
+<stop offset="1" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_3273_39554" x1="96" y1="231" x2="2.95385" y2="231" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0"/>
+<stop offset="0.109375" stop-color="#C6C6C6" stop-opacity="0.900763"/>
+<stop offset="0.880208" stop-color="#C6C6C6"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
